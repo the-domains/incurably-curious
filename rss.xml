@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Incurably Curious]]></title>
         <description><![CDATA[Incurably Curious]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/incurably-curious/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:35:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 09:35:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/incurably-curious/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thegrid.io Beta]]></title>
             <description><![CDATA[<p>thegrid.io </p>]]></description>
-            <link>undefinedthegridio-beta/index.html</link>
+            <link>https://thegrid.ai/incurably-curious/thegridio-beta/index.html</link>
             <guid isPermaLink="false">c65a5756-767a-4b03-8f8c-6b67aa2b70d5</guid>
-            <pubDate>Tue, 26 Apr 2016 13:35:34 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 09:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
